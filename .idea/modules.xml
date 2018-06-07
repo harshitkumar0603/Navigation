@@ -3,11 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Navigation.iml" filepath="$PROJECT_DIR$/.idea/Navigation.iml" />
-      <module fileurl="file://D:\files and projects\Android\GitHub\Navigation\.idea\Navigation.iml" filepath="D:\files and projects\Android\GitHub\Navigation\.idea\Navigation.iml" />
-      <module fileurl="file://D:\files and projects\Android\GitHub\Navigation\Navigation.iml" filepath="D:\files and projects\Android\GitHub\Navigation\Navigation.iml" />
-      <module fileurl="file://D:\files and projects\Android\GitHub\Navigation\.idea\Navigation1.iml" filepath="D:\files and projects\Android\GitHub\Navigation\.idea\Navigation1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\files and projects\Android\GitHub\Navigation\app\app.iml" filepath="D:\files and projects\Android\GitHub\Navigation\app\app.iml" />
     </modules>
   </component>
 </project>
