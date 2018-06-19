@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Navigation.iml" filepath="$PROJECT_DIR$/.idea/Navigation.iml" />
+      <module fileurl="file://D:\files and projects\Android\GitHub\NavigationFingerprint\.idea\Navigation.iml" filepath="D:\files and projects\Android\GitHub\NavigationFingerprint\.idea\Navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavigationFingerprint.iml" filepath="$PROJECT_DIR$/NavigationFingerprint.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\files and projects\Android\GitHub\NavigationFingerprint\app\app.iml" filepath="D:\files and projects\Android\GitHub\NavigationFingerprint\app\app.iml" />
     </modules>
   </component>
 </project>
